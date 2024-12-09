@@ -1,0 +1,4 @@
+discord.py>=2.2.3,<3.0
+yt-dlp>=2023.10.07
+aiohttp>=3.8.5,<4.0
+ffmpeg-python>=0.2.0,<1.0
