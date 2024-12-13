@@ -1,6 +1,8 @@
 # Discord Test Bot
 
-Ce projet est un **bot Discord** conçu pour tester et développer diverses fonctionnalités de Discord. Il permet de créer, expérimenter et intégrer de nouvelles commandes, modules et fonctionnalités au sein d'un serveur Discord.
+Ce projet est un **bot Discord** conçu pour tester et développer diverses fonctionnalités de Discord. 
+
+Il permet de créer, expérimenter et intégrer de nouvelles commandes, modules et fonctionnalités au sein d'un serveur Discord.
 
 ## Fonctionnalités
 
